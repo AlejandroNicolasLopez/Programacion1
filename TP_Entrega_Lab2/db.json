@@ -1,0 +1,39 @@
+{
+    "personas": [
+        {
+            "id":1,
+            "nombres":"Alejandro Nicolas",
+            "apellido": "Lopez",
+            "edad": 23,
+            "email": "nicolopez3457@gmail.com"
+        },
+        {
+            "id":2,
+            "nombres": "Juan Damian",
+            "apellido": "Romero",
+            "edad": 27,
+            "email": "juanDromero@gmail.com"
+        },
+        {
+            "id":3,
+            "nombres":"Esteban",
+            "apellido": "Ramirez",
+            "edad": 33,
+            "email": "estebanramirez87@gmail.com"
+        },
+        {
+            "id":4,
+            "nombres":"Raul ",
+            "apellido": "Gonzalez",
+            "edad": 19,
+            "email": "raulgonzales99@gmail.com"
+        },
+        {
+            "id":5,
+            "nombres":"Damian",
+            "apellido": "Casse",
+            "edad": 22,
+            "email": "damiancasse11@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('/fondo.jpg');
+}
+.form-registro{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+
+}
+.form-registro h3{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.txt{
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #24303c;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+}
+
+.form-registro .boton {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+}
+
+.table{
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+    width: 400px;
+    margin-top: 100px;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #24303c;
+    background: #24303c;
+    margin: auto;
+}
+
+.template{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
